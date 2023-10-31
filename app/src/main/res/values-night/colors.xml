@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#A6000000</color>
+    <color name="icon_tint">#fff</color>
+    <color name="gray">#272626</color>
+</resources>
